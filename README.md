@@ -37,7 +37,8 @@
 
  ## OUTPUT
 
- ![Screenshot 2024-12-10 141515](https://github.com/user-attachments/assets/2d6e5794-857e-4dc9-9a72-0d4ee53d0c15)
+![Screenshot 2024-12-10 141717](https://github.com/user-attachments/assets/ff765368-7bdb-41cd-827a-4c2122421669)
+
 
  
  ## RESULT
